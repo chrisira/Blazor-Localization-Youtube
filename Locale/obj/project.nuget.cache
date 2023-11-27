@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lItsjMjiqdTZT3gkD9ARp95fsy3RqeSLq0uU4JBQf8pDlaH6dN3E0B/47Y0s9gZRwpXYviqTxFUXuume7x6clA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bishop\\Downloads\\Locale\\Locale\\Locale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bishop\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bishop\\.nuget\\packages\\microsoft.extensions.localization\\7.0.14\\microsoft.extensions.localization.7.0.14.nupkg.sha512",
+    "C:\\Users\\Bishop\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\7.0.14\\microsoft.extensions.localization.abstractions.7.0.14.nupkg.sha512",
+    "C:\\Users\\Bishop\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Bishop\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Bishop\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

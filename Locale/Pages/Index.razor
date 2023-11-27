@@ -1,0 +1,13 @@
+﻿@page "/"
+@using Microsoft.Extensions.Localization;
+@inject IStringLocalizer<App> localizer
+
+<PageTitle>Index</PageTitle>
+
+<h1>@localizer["hello"]</h1>
+<h2>@DateTime.Now.ToShortDateString()</h2>
+<h3>@DateTime.Now.ToLongDateString()</h3>
+
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" />
